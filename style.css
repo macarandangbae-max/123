@@ -69,6 +69,14 @@ header .navbar {
 .menu-link {
     margin-top: 10px;
 }
+.navbar .menu-links {
+    display: flex;
+    gap: 40px;
+}
+
+.menu-links {
+    margin-top: 10px;
+}
 
 .navbar li {
     color: transparent;
@@ -540,6 +548,12 @@ footer {
         gap: 15px;                
         font-size: 14px;          
     }
+    .menu-links {
+        display: flex;            
+        flex-direction: row;      
+        gap: 15px;                
+        font-size: 14px;          
+    }
     .hero-section {
         margin-top: 100px;
         height: 100vh;
@@ -568,7 +582,7 @@ footer {
 
     .About h2 {
         font-size: 2.5rem; 
-
+    }
     .About p {
         font-size: 1em; 
     }
@@ -610,4 +624,3 @@ footer {
         width: 100%;
     }
 }
-
