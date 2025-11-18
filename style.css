@@ -567,15 +567,15 @@ footer {
     }
 
     .About h2 {
-        font-size: 2.5em; /* Decrease the size on mobile */
+        font-size: 2.5rem; 
     }
 
     .About p {
-        font-size: 1em; /* Smaller text for smaller screens */
+        font-size: 1em; 
     }
 
     .About h1 {
-        font-size: 1.2em; /* Decrease size for h1 on mobile */
+        font-size: 1.2em; 
     }
 
     .column {
@@ -611,3 +611,4 @@ footer {
         width: 100%;
     }
 }
+
