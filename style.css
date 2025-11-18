@@ -600,8 +600,8 @@ footer {
         margin: 10px;
     }
 
-    .map-container{
-        margin-top: 120px;
+    .map-content{
+        margin-top: 250px;
     }
     .map-container{
         width: 100%;
@@ -610,3 +610,4 @@ footer {
         width: 100%;
     }
 }
+
